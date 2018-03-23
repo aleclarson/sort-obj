@@ -1,4 +1,4 @@
-# sort-obj v0.0.0
+# sort-obj v1.0.0
 
 Create a *new* object by sorting the given object.
 
